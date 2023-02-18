@@ -1,7 +1,7 @@
-/* Time-stamp: <2023-02-17 16:13:58 PST> */
+/* Time-stamp: <2023-02-17 16:22:02 PST> */
 /* silly comment */
 #include <stdio.h>
 int main(){
-  printf("Hello world!\n");
+  printf("Hello world from newly cloned example1!\n");
   return 0;
 };
