@@ -9,3 +9,5 @@ In newly cloned example1 making changes
 In /Users/whdaffer/tmp/git/example1-cloned/example1. Changing this file to try to understand git pull and git fetch
 
 GHD: modifying README.md on a fork of example1
+GHD: modifying README.md in clone of example1 after being added as 
+collaborator by whd
