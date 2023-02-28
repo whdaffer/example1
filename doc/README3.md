@@ -10,7 +10,11 @@ I'll do
     % git commit  -m 'blah blah blah'
     % git push
     
-to push to github.com
+to push to github.com. 
+
+Unfortunately, the last step failed because I haven't set an upstream branch yet. As Git advised, I need to ...
+
+	% git push --set-upstream origin whd-work
 
 Then 'realize' my mistake and (I think), do 
 
