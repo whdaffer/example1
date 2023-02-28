@@ -1,1 +1,8 @@
 foo
+\#*\#
+.\#*
+<<<<<<< HEAD
+=======
+*.out
+diff.main.whd-work
+>>>>>>> 44b7479 (doc/README3.md and .gitignore on whd-work)
