@@ -3,4 +3,8 @@ Will add,commit and push, then figure out how to go back and take this file off 
 
 ** [2023-02-28 Tue 06:25] whd/whd-work
    whd/whd-work: silly .org file, but I will want this on whd/main eventually.
-   
+
+   That didn't work at all. Got into *lots* of trouble. Trying again.
+
+** [2023-03-05 Sun] See README3.md
+
